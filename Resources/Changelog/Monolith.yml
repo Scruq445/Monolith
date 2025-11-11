@@ -14002,3 +14002,12 @@ Entries:
   id: 1549
   time: '2025-11-11T00:37:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2600
+- author: Ilya246
+  changes:
+    - type: Tweak
+      message: You can now repair and drive bluespace salvage event derelicts.
+    - type: Fix
+      message: You can now set dampening mode on the derelict ADS Zenith.
+  id: 1550
+  time: '2025-11-11T00:39:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2594
