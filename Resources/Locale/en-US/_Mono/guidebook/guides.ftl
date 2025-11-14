@@ -4,7 +4,7 @@ guide-entry-shipyard-judiciary = Judiciary
 guide-entry-shipyard-sabine = Sabine
 guide-entry-shipyard-takeaway = Takeaway
 guide-entry-shipyard-ruby = Ruby
-
+guide-entry-shipyard-aulin = Aulin
 # Gunnery Guides
 guide-entry-gunnery = Ship Gunnery
 guide-entry-ballistics = Kinetic
